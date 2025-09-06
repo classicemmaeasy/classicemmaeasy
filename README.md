@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Emmanuel Awogbindin</h1>
+<h3 align="center">👀 I’m interested in AI/Machine learning Engineering and Data science, all things data related.</h3>
 
-<!--
-**classicemmaeasy/classicemmaeasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=classicemmaeasy&label=Profile%20views&color=0e75b6&style=flat" alt="classicemmaeasy" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **end-to-end ML pipelines, from data prep, training, deployment and monitoring focused on automation, reliability, and performance.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯💞️ I’m looking to collaborate on **on open source tools for machine learning, AI and data science projects that are specifically about analyzing and modelling large datasets using machine learning algorithms and also containerizing and deploying them.**
+
+- 📝 I write articles in my leisure time [https://t.co/Xa6CwsdnTq](https://t.co/Xa6CwsdnTq)
+
+- 💬 Ask me about **about programming with python, Machine Learning and AI.**
+
+- 📫 How to reach me **Reach me via twitter @emmaeasy_, Linkedin: Emmanuel Awogbindin or via email(classicemmaeasy@gmail.com).**
+
+- ⚡ I'm **open to work around the world**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/emmaeasy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emmaeasy_" height="30" width="40" /></a>
+</p>
