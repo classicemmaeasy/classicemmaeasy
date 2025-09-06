@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **about programming with python, Machine Learning and AI.**
 
-- 📫 How to reach me **Reach me via twitter @emmaeasy_, Linkedin: Emmanuel Awogbindin or via email(classicemmaeasy@gmail.com).**
+- 📫 How to reach me **Reach me via twitter @emmaeasy_
+- Linkedin: Emmanuel Awogbindin or via email(classicemmaeasy@gmail.com).**
 
 - ⚡ I'm **open to work around the world**
 
