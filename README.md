@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Awogbindin</h1>
+<h1 align="center">Hi 👋 I'm Emmanuel Awogbindin</h1>
 <h3 align="center">👀 I’m interested in AI/Machine learning Engineering and Data science, all things data related.</h3>
 
 - 🔭 I’m currently working on **end-to-end AI/ML system that solves real world problems and scale, from data prep, training, deployment and monitoring focused on automation, reliability, and performance.**
