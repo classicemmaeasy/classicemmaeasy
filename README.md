@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Emmanuel Awogbindin</h1>
-<h3 align="center">👀 I’m interested in AI/Machine learning Engineering and Data science, all things data related.</h3>
+<h3 align="center">👀 I’m interested in AI/Machine learning Engineering, all things data related.</h3>
 
-- 🔭 I’m currently working on **end-to-end AI/ML system that solves real world problems and scale, from data prep, training, deployment and monitoring focused on automation, reliability, and performance.**
+- 🔭 I’m currently working on **end-to-end AI/ML system backend that solves real world problems and scale, from data prep, training, deployment and monitoring focused on automation, reliability, and performance.**
 
-- 👯💞️ I’m looking to collaborate on **on open source tools for machine learning, AI and data science projects that are specifically about analyzing and modelling large datasets using machine learning algorithms and also containerizing and deploying them.**
+- 👯💞️ I’m looking to collaborate on **on open source tools for machine learning, AI and data science projects that are specifically about analyzing and modelling large datasets using machine learning algorithms and also containerizing and deploying them or building GEN AI, RAG, AGENIC AI solutions**
 
 - 📝 I write articles in my leisure time [https://t.co/Xa6CwsdnTq](https://t.co/Xa6CwsdnTq)
 
