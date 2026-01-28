@@ -5,14 +5,13 @@
 
 - 👯💞️ I’m looking to collaborate on **on open source tools for machine learning, AI and data science projects that are specifically about analyzing and modelling large datasets using machine learning algorithms and also containerizing and deploying them or building GEN AI, RAG, AGENIC AI solutions**
 
-- 📝 I write articles in my leisure time [https://t.co/Xa6CwsdnTq](https://t.co/Xa6CwsdnTq)
-
 - 💬 Ask me about **about programming with python, Machine Learning and AI.**
 
 - 📫 How to reach me **Reach me via twitter @emmaeasy_
 - Linkedin: Emmanuel Awogbindin or via email(classicemmaeasy@gmail.com).**
 
 - ⚡ I'm **open to work around the world**
+- 📝 I write articles in my leisure time [https://t.co/Xa6CwsdnTq](https://t.co/Xa6CwsdnTq)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
